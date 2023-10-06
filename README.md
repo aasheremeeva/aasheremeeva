@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm aspiring Data Scientist!
 
 - ⚡️ Interested in data analytics and machine learning.
-- 👀 Currently looking for interesting projects.
+- 👀 Always open to interesting projects.
 - 👩🏼‍💻 Have working experience in IT as product marketing manager.
 
 I'm data enthusiast with a unique blend of marketing prowess and a newfound passion for data science. Leveraging my background as a seasoned Product Marketing Manager with a thirst for knowledge, I've embarked on an immersive one-year journey into the world of Data Science. 
